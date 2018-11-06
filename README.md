@@ -12,7 +12,8 @@ Steps to follow:
 
 -Understanding features- possiblly historgrams
 Correlation- to see if all variables are actually important, and should we consider these different variables for the analysis.
--columns having missing value
+
+-Columns with missing value
  Imputation
  Continous data- Mean, Median, we could later explore more difficult methods
  Categorical data- One hot encoding
@@ -21,6 +22,9 @@ Correlation- to see if all variables are actually important, and should we consi
 
  Split data to test and train data(80-20).
  
- Try random forest
+ Try random forest - Hyper paramter tuning
  XG Boost-  Hyper parameter tuning
+ 
+ Using Piple Line for K-fold cross valdidation
+ - Did a 10 fold cross vailidation
  
